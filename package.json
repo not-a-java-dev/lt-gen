@@ -1,0 +1,11 @@
+{
+  "name": "lt-gen",
+  "version": "1.0.0",
+  "description": "funi gen",
+  "main": "index.js",
+  "author": "winter",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}
